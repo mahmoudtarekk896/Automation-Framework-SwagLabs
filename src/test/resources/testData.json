@@ -12,5 +12,15 @@
   "emptyPassword": {
     "username": "standard_user",
     "password": ""
+  },
+  "cartProducts": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bolt T-Shirt",
+    "Sauce Labs Onesie"
+  ],
+  "checkoutInfo": {
+    "firstName": "UserFirstName",
+    "lastName": "UserLastName",
+    "postalCode": "1234"
   }
 }
